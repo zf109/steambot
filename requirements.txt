@@ -1,0 +1,7 @@
+requests
+pandas
+sqlalchemy
+flask_sqlalchemy
+alembic
+psycopg2
+
